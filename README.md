@@ -2,9 +2,9 @@
 Data Analysis project on health care
 
 
-# Data Import
+## Data Import
 from healcare web page
 
-# Cleaned: normalized text
+## Cleaned: normalized text
 
 # created charts
